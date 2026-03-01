@@ -1,2 +1,4 @@
-print("Hello, Simon!")
-input("Quel est ton age ?")
+age = 35
+prenom = "Simon"
+a = f"Bonjour, je m'appelle {prenom} et j'ai {age} ans."
+print(a)
